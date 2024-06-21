@@ -11,6 +11,8 @@ public class Ex22 {
 		System.out.println( 5 == 17 );
 		System.out.println( 5 != 17 );
 		System.out.println( !(5==17) );
+		
+		
 
 
 	}
