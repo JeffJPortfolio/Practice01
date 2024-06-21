@@ -12,7 +12,11 @@ public class Ex29 {
 		System.out.print("세로를 입력하세요: ");
 		double scanH = sc.nextDouble();
 		
-		double ans = scanW * scanH;
+		double perimeter = 2 * (scanW + scanH);
+		double area = scanW * scanH;
+		
+		System.out.println("사각형의 넓이는 " + area);
+		System.out.println("사각형의 둘레는 " + perimeter);
 		
 		
 		sc.close();
