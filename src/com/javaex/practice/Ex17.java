@@ -4,7 +4,7 @@ public class Ex17 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//agrgs 를  args 로 바꾸고 x 에 값이 할당이 안되어서 런하면 애러가나옴
+		//sum 의 데이터 타입을 설정 하지 않었고 프린트에 ""가 아닌"'로 설저잉 되어 있음
 	}
 
 }
