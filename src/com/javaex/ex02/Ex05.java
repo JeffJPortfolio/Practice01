@@ -23,6 +23,8 @@ public class Ex05 {
 		float scanHeight = sc.nextFloat();
 
 		System.out.println("당신의 이름은 " + scanName + " 나이는 " + scanAge + "키는 " + scanHeight + " 입니다.");
+		sc.close();
+
 
 	}
 }
